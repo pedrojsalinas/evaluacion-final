@@ -19,3 +19,9 @@ Nombre|Provincia|Partido|AnioInicio|AnioFin
 - Usar un widget de ipython
 
 4.- Subir todo al repositorio
+
+# instrucciones
+
+colocarse en el directorio ~/spiders
+ejecutar el comando "scrapy crawl examen -o final.csv" (genera un csv con el nombre de final.csv)
+visualizacion del los ficheros en notebook
